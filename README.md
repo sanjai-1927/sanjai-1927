@@ -184,6 +184,13 @@ A custom-built portfolio site used for internship applications.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-dun-omega-80.vercel.app/api?username=sanjai-1927&show_icons=true&theme=default" height="165"/>
+</p>
+
+
 ### 📫 Reach Me
 
 - Portfolio: [sanjaigp-resume.framer.website](https://sanjaigp-resume.framer.website/)

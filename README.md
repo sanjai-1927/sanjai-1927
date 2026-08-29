@@ -25,6 +25,43 @@ status     : Open to Software Developer / AI-ML internship & fresher roles
 
 ---
 
+### 🔍 Domain Expertise
+
+```
+
+SECURITY & ENCRYPTION
+├── AES encryption & password-based file locking
+├── PBKDF2-HMAC-SHA256 key derivation (480k iterations)
+└── CLI-based secure tooling — no server, no external dependency
+
+BACKEND ARCHITECTURE
+├── Flask — REST APIs, relational modeling with SQLAlchemy ORM
+├── Django full-stack app development
+└── POS-integrated, hardware-agnostic system design (ShelfSense)
+
+AI/ML INTEGRATION
+├── Computer vision pipelines — YOLOv8 shelf/object detection
+├── Multi-agent systems — LangChain / LangGraph content generation
+├── Claude API integration — AI-powered resume screening
+└── Supervised ML — scikit-learn classification models
+
+EMBEDDED & EDGE SYSTEMS
+├── Raspberry Pi 5 camera-based detection pipelines
+└── Edge deployment for real-world retail environments
+
+DATABASE
+├── Relational schema design — one-to-many, foreign keys
+├── SQL (MySQL) & SQLite for backend data storage
+└── ORM-based data access via SQLAlchemy
+
+CLOUD & DEVOPS
+├── Git & GitHub — version control, collaborative workflows
+└── Deployment-ready monorepo structuring (AI Resume Screener)
+
+```
+
+---
+
 ### 🚀 Projects
 
 **🏬 ShelfSense** — Live inventory & shelf-detection system

@@ -1,5 +1,5 @@
 <h1 align="center">Sanjai G P</h1>
-<h3 align="center">Aspiring Software Developer | Full-Stack & AI/ML</h3>
+<h3 align="center">Aspiring Software Developer | Backend Developer | Full-Stack & AI/ML</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjai-tech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,7 +19,9 @@ role       : Aspiring Software Developer
 education  : B.E. Computer Science & Engineering — Mahendra Institute of Technology (2027)
 focus      : Backend development · REST APIs · SQL · AI/ML integration
 experience : AI Intern, Techobyte Technology (via E-Cell IIT Hyderabad)
-status     : Open to Software Developer / AI-ML internship & fresher roles
+             Backend Developer Internship — Code ALPHA - Virtual
+             SDE Internship — Cognify IT Solutions Pvt. Ltd - Virtual
+status     : Open to Software Developer / AI-ML, SDE, Backend developer internship & fresher roles
 
 ```
 
@@ -87,7 +89,7 @@ Built with a LangGraph/LangChain multi-agent architecture; submitted for the Cog
 **📄 AI Resume Screener** — Full-stack AI screening tool
 An AI-powered resume screener using React on the frontend, Node.js on the backend, and the Claude API for evaluation — delivered as a GitHub-ready monorepo.
 `React` `Node.js` `Claude API`
-🔗 [View repo →](https://github.com/sanjai-1927/resume-screener-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/Resume-Screening-Tool---NLP-Job-Matcher)
 
 **🎙️ JARVIS-Style-AI-Assistant** — Voice-driven HUD assistant
 A single-file HTML build with a holographic HUD interface, emotional-intelligence responses, and voice input/output via the Web Speech API.
@@ -97,7 +99,7 @@ A single-file HTML build with a holographic HUD interface, emotional-intelligenc
 **📚 Bookstore App** — Relational data modeling exercise
 A Flask app built to practice relational modeling — one-to-many relationships, foreign keys, and `db.relationship` mappings using SQLAlchemy ORM and Jinja2 templating.
 `Python` `Flask` `SQLAlchemy` `Jinja2`
-🔗 [View repo →](https://github.com/sanjai-1927/bookstore-app-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/Bookstore-app)
 
 **🌐 Personal Portfolio Website** — Custom HTML portfolio
 A custom-built portfolio site used for internship applications.
@@ -158,10 +160,12 @@ A custom-built portfolio site used for internship applications.
 
 **Internship**
 - AI Internship — Techobyte Technology, via E-Cell IIT Hyderabad (21 days, Dec 2023–Jan 2024)
+- SDE Internship — Cognify IT Solutions Pvt. Ltd - Virtual(30 days, June 2026-July2026)
+- Backend Developer Internship — Code ALPHA - Virtual (30 days, September 2026)
 
 **Hackathons**
 - KSRCT NeuraHack 2.0 — 36-hour hackathon
-- Cognizant Technoverse Hackathon — Participation (ContentForge AI submission)
+- Cognizant Technoverse Hackathon — Participation (MedAssist AI submission)
 - Smart India Hackathon (SIH) — Participation
 
 **IIT Programs**
@@ -176,11 +180,14 @@ A custom-built portfolio site used for internship applications.
 - Infosys — Certificate
 - HP LIFE — Course Certificate
 - Anthropic (Claude) — Certificate
+- Mahendra Institues —Modern ML Techniques for Data Driven Decision Making
 
 **Platform Certifications**
-- GUVI — AI for India 2.0, AutoCAD, ChatGPT for Everyone, Game Development Using PyGames, Introduction to Data Engineering & Big Data, MySQL, Python, Web Development with Python Flask
+- GUVI — AI for India 2.0, AutoCAD, ChatGPT for Everyone, Game Development Using PyGames, Introduction to Data Engineering & Big Data, MySQL, Python (IITM Pravatak), Web Development with Python Flask
 - Scaler — Java
 - IBM (Cognitive Class) — PY0101EN: Python for Data Science
+- ICT Academy — Python Web Development, Digital Marketing Tools
+- Harvard University — CS50 Course (Learning)
 
 ---
 

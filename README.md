@@ -150,8 +150,8 @@ A custom-built portfolio site used for internship applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjai-1927&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai-1927" height="165"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=sanjai-1927&show_icons=true&theme=default" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=sanjai-1927" height="165"/>
 </p>
 
 ---

@@ -69,10 +69,10 @@ Iterated from a Raspberry Pi 5 + YOLOv8-nano camera setup targeting Indian super
 `Python` `Flask` `SQLite` `YOLOv8` `Raspberry Pi` `REST API`
 🔗 [View repo →](https://github.com/sanjai-1927/Shelf-Sense)
 
-**🔐 VaultLock** — Encrypted file/folder locker (CLI)
+**🔐 Vault-Lock** — Encrypted file/folder locker (CLI)
 Locks personal files and folders with a password using AES encryption via Python's `cryptography` library, with PBKDF2-HMAC-SHA256 key derivation at 480,000 iterations. Fully offline — no server, no internet, no external dependencies beyond `cryptography`. Includes a secure password generator and a `pytest` suite covering encryption, decryption, and failure cases.
 `Python` `cryptography` `AES` `PBKDF2-HMAC-SHA256` `pytest`
-🔗 [View repo →](https://github.com/sanjai-1927/vaultlock-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/Vault-Lock)
 
 **✈️ Airline Customer Satisfaction Prediction** — ML classification model
 Predicts airline passenger satisfaction from flight and service data using a supervised machine learning pipeline.
@@ -89,10 +89,10 @@ An AI-powered resume screener using React on the frontend, Node.js on the backen
 `React` `Node.js` `Claude API`
 🔗 [View repo →](https://github.com/sanjai-1927/resume-screener-repo-name)
 
-**🎙️ JARVIS-Style AI Assistant** — Voice-driven HUD assistant
+**🎙️ JARVIS-Style-AI-Assistant** — Voice-driven HUD assistant
 A single-file HTML build with a holographic HUD interface, emotional-intelligence responses, and voice input/output via the Web Speech API.
 `HTML` `CSS` `JavaScript` `Web Speech API`
-🔗 [View repo →](https://github.com/sanjai-1927/jarvis-assistant-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/JARVIS-Style-AI-Assistant)
 
 **📚 Bookstore App** — Relational data modeling exercise
 A Flask app built to practice relational modeling — one-to-many relationships, foreign keys, and `db.relationship` mappings using SQLAlchemy ORM and Jinja2 templating.

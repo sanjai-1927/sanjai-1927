@@ -67,7 +67,7 @@ CLOUD & DEVOPS
 **🏬 ShelfSense** — Live inventory & shelf-detection system
 Iterated from a Raspberry Pi 5 + YOLOv8-nano camera setup targeting Indian supermarkets into a POS-integrated architecture that confirms stock levels using CCTV and billing-system data. Flask backend with REST APIs and SQLite, a simulated YOLOv8 detection pipeline, standalone HTML demo, and a full 13-section project report. Originated as an MSME hackathon project with a hardware-agnostic architecture.
 `Python` `Flask` `SQLite` `YOLOv8` `Raspberry Pi` `REST API`
-🔗 [View repo →](https://github.com/sanjai-1927/shelfsense-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/Shelf-Sense)
 
 **🔐 VaultLock** — Encrypted file/folder locker (CLI)
 Locks personal files and folders with a password using AES encryption via Python's `cryptography` library, with PBKDF2-HMAC-SHA256 key derivation at 480,000 iterations. Fully offline — no server, no internet, no external dependencies beyond `cryptography`. Includes a secure password generator and a `pytest` suite covering encryption, decryption, and failure cases.

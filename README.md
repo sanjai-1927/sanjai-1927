@@ -79,12 +79,12 @@ Locks personal files and folders with a password using AES encryption via Python
 **✈️ Airline Customer Satisfaction Prediction** — ML classification model
 Predicts airline passenger satisfaction from flight and service data using a supervised machine learning pipeline.
 `Python` `scikit-learn` `pandas`
-🔗 [View repo →](https://github.com/sanjai-1927/airline-satisfaction-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/Airline-Customer-Satisfaction-Prediction-)
 
 **🤖 ContentForge AI** — Multi-agent content generation platform
 Built with a LangGraph/LangChain multi-agent architecture; submitted for the Cognizant Technoverse Hackathon 2026.
 `Python` `LangGraph` `LangChain`
-🔗 [View repo →](https://github.com/sanjai-1927/contentforge-repo-name)
+🔗 [View repo →](https://github.com/sanjai-1927/Content-Forge-AI)
 
 **📄 AI Resume Screener** — Full-stack AI screening tool
 An AI-powered resume screener using React on the frontend, Node.js on the backend, and the Claude API for evaluation — delivered as a GitHub-ready monorepo.

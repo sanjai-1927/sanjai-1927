@@ -86,6 +86,10 @@ Built with a LangGraph/LangChain multi-agent architecture; submitted for the Cog
 `Python` `LangGraph` `LangChain`
 🔗 [View repo →](https://github.com/sanjai-1927/Content-Forge-AI)
 
+🛡️ **Mail Sentinel** — Real-time phishing detection & SMS alerting system Polls Gmail via IMAP, scores every new email with a TF-IDF + logistic regression classifier served behind FastAPI, and escalates high-confidence phishing straight to SMS via Twilio. Spring Boot backend with MySQL persistence, fully containerized with Docker Compose. Built solo in a 36-hour hackathon.
+`Java` `Spring Boot` `Python` `FastAPI` `scikit-learn` `MySQL` `Twilio` `Docker`
+🔗 [View repo →](https://github.com/sanjai-1927/Mail-Sentinal)
+
 **📄 AI Resume Screener** — Full-stack AI screening tool
 An AI-powered resume screener using React on the frontend, Node.js on the backend, and the Claude API for evaluation — delivered as a GitHub-ready monorepo.
 `React` `Node.js` `Claude API`
